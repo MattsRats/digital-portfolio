@@ -6,7 +6,7 @@
 
 ### <u>Summary</u>:
 
-As a data scientist with a [PhD degree](education) and 5 years of [work experience](experience), I have a deep understanding of statistical modeling, machine learning, and data visualization (more details in the [](skills) section). My career has been focused on solving complex business problems through the use of data-driven insights, and I have a proven track record of delivering measurable results (see [experience section](experience)). Example of my work can be found [here](./analysis_example.ipynb).
+As a data scientist with a [PhD degree](education) and 5 years of [work experience](experience), I have a deep understanding of statistical modeling, machine learning, and data visualization (more details in the [Skills](skills) section). My career has been focused on solving complex business problems through the use of data-driven insights, and I have a proven track record of delivering measurable results (see [experience section](experience)). Example of my work can be found [here](./analysis_example.ipynb).
 
 (education)=
 ### Education:
